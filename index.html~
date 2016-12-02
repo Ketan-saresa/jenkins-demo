@@ -4,8 +4,7 @@
     </head>
     <body ng-controller="appCtrl">
         <h1>This is demo</h1>
-        <h1>This is demo</h1>
-        <h1>This is demo</h1>
+  
         
     </body>
     <script src="bower_components/angular/angular.js"></script>
